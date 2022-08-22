@@ -21,12 +21,12 @@ Integrantes:
 
 
 
-2. Marco Teoerico:
+2. Marco Teorico:
 
 
 
 
-3. aterial y equipo requerido
+3. Materia y equipo requerido:
 
 ![image](https://user-images.githubusercontent.com/105687213/186019047-7d7e099e-515c-4d14-9f6c-c9432b77b21f.png)
 
