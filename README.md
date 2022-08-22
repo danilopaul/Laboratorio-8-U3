@@ -21,7 +21,7 @@ Integrantes:
 
 
 
-2. arco Teorico
+2. Marco Teoerico:
 
 
 
