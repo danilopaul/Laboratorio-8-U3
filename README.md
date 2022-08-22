@@ -97,3 +97,4 @@ Los voltajes obtenidos no son iguales, esto se debe a que el voltaje medido con 
 6. Bibliografia
 
 Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
+
