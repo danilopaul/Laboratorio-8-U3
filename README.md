@@ -8,7 +8,7 @@ Integrantes:
 - Sandal Andrés
 - Vasquez Lady
 
-                                                         LABORATORIO N° 7
+                                                         LABORATORIO N° 8
 
 1. Objetivos
 
