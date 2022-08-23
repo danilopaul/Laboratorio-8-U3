@@ -23,7 +23,8 @@ Integrantes:
 
 2. Marco Teorico:
 
-
+![image](https://user-images.githubusercontent.com/105684550/186040843-d0107670-29a9-44af-bd41-4a7e9bd33caf.png)
+Link del mapa mental: https://www.canva.com/design/DAFKF8psjSc/IXyWZ2L_dnVwTYPpa-9ykA/view?utm_content=DAFKF8psjSc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 3. Materia y equipo requerido:
