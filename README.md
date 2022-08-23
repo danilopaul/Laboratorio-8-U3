@@ -70,6 +70,7 @@ del osciloscopio?
 Amplitud de voltaje: 6.87(V) 
 
 Como la frecuencia es de 2500 Hz aplicamos la formula del periodo T=1/f, por lo cual se obtene el esperiodo de la onda seno es:
+
 Periodo: 0.0004(s)
 
 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
