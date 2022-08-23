@@ -95,6 +95,11 @@ Los voltajes obtenidos no son iguales, esto se debe a que el voltaje medido con 
 
 5. Conclusiones
 
+- En primer lugar, se logró concluir que La forma de onda sinusoidal (onda seno) es el tipo más común y importante ya que todos los otros tipos de maneras de onda repetitivas tienen la posibilidad de ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de manera de onda que se repite a intervalos fijos. Se pone un hincapié particular en la manera de onda sinusoidal (onda seno) gracias a su trascendencia importante en la exploración de circuitos de ca.
+
+- Como consiguiente, se concluyo que estas ondas tienen unas características matemáticas bastante interesantes (por ejemplo con combinaciones de señales senoidales de distinto amplitud y frecuencia se puede rehacer cualquier forma de onda), la señal que se recibe de las tomas de corriente de cualquier vivienda poseen este modo, las señales de examen elaboradas por los circuitos osciladores de un generador de señal son además senoidales, la mayor parte de las fuentes de potencia en AC generan señales senoidales. 
+
+- Por último, con la ayuda del osciloscopio se visualizo la gráfica que muestra señales eléctricas cambiantes en el tiempo. Con un osciloscopio se tuvo la posibilidad de decidir de manera directa el lapso y el voltaje de una señal y indirectamente la frecuencia de una señal, así como la fase entre 2 señales. Además, el osciloscopio nos posibilitó identificar que se trataba de corriente alterna, así como establecer qué parte de la señal es sonido y cómo cambia este con el tiempo. Al final el osciloscopio es bastante eficaz para ubicar averías en un circuito. 
 
 6. Bibliografia
 
