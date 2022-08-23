@@ -74,6 +74,7 @@ Periodo: 0.0004(s)
 
 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
+
 Para calcular la frecuencia natural f=1/T, obteniendo lo siguiente:
 
 f: 25000(Hz)
