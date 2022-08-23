@@ -14,12 +14,13 @@ Integrantes:
 
 1.1. Objetivos General:
 
-
+Identificar una forma de onda sinusoidal y medir sus características, para describir cómo se generan dichas ondas seno, con el fin de determinar su comportanmiento en un circuito CA o CD con la ayuda del osciloscopio y un simulador adecuado.
 
 1.2 Objetivos Especificos:
 
-
-
+- Determinar experimentalmente las características de señales senoidales.
+- Determinar valores requeridos en la guía presentes el en circuito CA.
+- Utilizar un osciloscopio para medir formas de onda.
 
 2. Marco Teorico:
 
