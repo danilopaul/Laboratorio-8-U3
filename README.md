@@ -77,7 +77,7 @@ salida.
 
 Para calcular la frecuencia natural f=1/T, obteniendo lo siguiente:
 
-f: 25000(Hz)
+f: 2500  (Hz)
 
 La frecuencia angular es w=2πf
 
