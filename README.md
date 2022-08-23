@@ -97,6 +97,8 @@ Los voltajes obtenidos no son iguales, esto se debe a que el voltaje medido con 
 
 4. Video
 
+https://youtu.be/OrAfmsYTp60
+
 5. Conclusiones
 
 - En primer lugar, se logró concluir que La forma de onda sinusoidal (onda seno) es el tipo más común y importante ya que todos los otros tipos de maneras de onda repetitivas tienen la posibilidad de ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de manera de onda que se repite a intervalos fijos. Se pone un hincapié particular en la manera de onda sinusoidal (onda seno) gracias a su trascendencia importante en la exploración de circuitos de ca.
