@@ -52,6 +52,7 @@ el osciloscopio.
 
 La amplitud acabarca en 2.2 cuadros aproximadamente
 
+
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
 Esta posicionada la perilla en 3v
